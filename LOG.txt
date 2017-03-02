@@ -1,50 +1,66 @@
+JMZ-2017.3.2(2)
+ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
+7 No Honking  +87  197~283
+
+
 JMZ-2017.3.2(1)
 ZhangXu JiMinZhi
-7 No Honking  +90  101~190
+2017.2.26  9:00~11:00 sunny
+7 No Honking  +90  107~196
 
 
 JMZ-2017.3.1(1)
 ZhangXu JiMinZhi
-7 No Honking  +41  60~100
+2017.2.26  9:00~11:00 sunny
+7 No Honking  +41  66~106
 
 
 JMZ-2017.2.28(2)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 9 NO Parking  +137  102~238
 
 
 JMZ-2017.2.28(1)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 9 NO Parking  +101  1~101
 
 
 JMZ-2017.2.27(3)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 15 Caution Pedestrian  +65  202~266
 
 
 JMZ-2017.2.27(4)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 15 Caution Pedestrian  +101  101~201
 
 
 JMZ-2017.2.27(3)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 15 Caution Pedestrian  +68  33~100
 
 
 JMZ-2017.2.27(2)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 16 Roadwork  +70  51~120
 
 
 JMZ-2017.2.27(1)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 16 Roadwork  +50  1~50
 
 
 ZX-2017.2.26(1)
 ZhangXu JiMinZhi
+2017.2.26  9:00~11:00 sunny
 7 No Honking  +6  60~65
 15 Caution Pedestrian  +32  1~32
 
@@ -58,7 +74,7 @@ TOTAL
 4 Upslope: 0
 5 Downslope: 12
 6 No U-Turn: 11
-7 No Honking: 190
+7 No Honking: 283
 8 Traffic Limit: 4
 9 NO Parking: 238
 10 No Left Turn: 26
