@@ -80,14 +80,14 @@ TOTAL
 3 Railway: 0
 4 Upslope: 0
 5 Downslope: 12
-6 No U-Turn: 11
+6 No U-Turn: 177
 7 No Honking: 283
 8 Traffic Limit: 4
 9 NO Parking: 238
-10 No Left Turn: 26
+10 No Left Turn: 236
 11 No Right Turn: 9
 12 Prohibiting Straight: 0
 13 Minimum Speed Limit: 0
-14 Maximum Speed Limit: 46
+14 Maximum Speed Limit: 256
 15 Caution Pedestrian: 266
-16 Roadwork: 120
+16 Roadwork: 266
